@@ -1,0 +1,37 @@
+{
+  "star_health_comprehensive_policy.docx": {
+    "tenant_id": "star-health",
+    "plan_name": "Star Comprehensive",
+    "section_name": "Policy Document"
+  },
+
+  "claims_guidelines.docx": {
+    "tenant_id": "star-health",
+    "plan_name": "Star Comprehensive",
+    "section_name": "Claims Guidelines"
+  },
+
+  "agent_product_manual.docx": {
+    "tenant_id": "star-health",
+    "plan_name": "Star Comprehensive",
+    "section_name": "Agent Manual"
+  },
+
+  "customer_qa_history.csv": {
+    "tenant_id": "star-health",
+    "plan_name": "Star Comprehensive",
+    "section_name": "Customer Q&A"
+  },
+
+  "hospital_network.csv": {
+    "tenant_id": "star-health",
+    "plan_name": "Star Comprehensive",
+    "section_name": "Hospital Network"
+  },
+
+  "product_comparison.csv": {
+    "tenant_id": "star-health",
+    "plan_name": "Star Comprehensive",
+    "section_name": "Product Comparison"
+  }
+}

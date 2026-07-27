@@ -1,0 +1,31 @@
+hospital_name,city,pincode,specializations,cashless_plans,insurance_desk_phone,pre_auth_time_hours,emergency_cashless
+Manipal Hospital,Bengaluru,560017,"Cardiology,Ortho,Neuro,Oncology","Star Comprehensive,HDFC Optima,Bajaj Health",080-25023456,2,Yes
+Apollo Hospitals,Chennai,600006,All Specializations,All Plans,044-28290200,4,Yes
+Fortis Memorial,Gurugram,122002,"Cardiac,Cancer,Transplant","Star Comprehensive,Star Family",0124-4921021,6,Yes
+Columbia Asia,Bengaluru,560066,"Cardiology,Ortho,General Surgery","Star Comprehensive,HDFC Optima",080-61226122,3,Yes
+Kokilaben Hospital,Mumbai,400053,"Cardiac,Neuro,Ortho,Oncology",All Plans,022-42696969,2,Yes
+Narayana Health,Bengaluru,560099,"Cardiac,Transplant,Pediatric","Star Comprehensive,Bajaj Health",1800-309-0309,2,Yes
+AIIMS,New Delhi,110029,All Specializations,Government Plans Only,011-26588500,8,No
+Medanta,Gurugram,122001,"Cardiac,Neuro,Liver Transplant","HDFC Optima,Bajaj Health",0124-4141414,4,Yes
+Max Hospital,New Delhi,110017,"Ortho,Cardiac,Oncology","Star Comprehensive,Max Bupa",011-26515050,3,Yes
+Lilavati Hospital,Mumbai,400050,"General,Maternity,Cardiac",All Plans,022-26751000,3,Yes
+Global Hospitals,Chennai,600100,"Liver,Kidney Transplant","Star Comprehensive,HDFC Optima",044-44777000,6,Yes
+Sparsh Hospital,Bengaluru,560001,"Ortho,Spine,Sports Medicine","Star Comprehensive,Bajaj Health",080-44660101,3,Yes
+Ruby Hall Clinic,Pune,411001,"Cardiac,Oncology,Neurology","Star Comprehensive,HDFC Optima",020-66455000,4,Yes
+KIMS Hospital,Hyderabad,500003,"Cardiac,Neuro,Ortho","Star Comprehensive,Bajaj Health",040-44885000,3,Yes
+Care Hospitals,Hyderabad,500001,"Cardiac,Oncology,Nephrology",All Plans,040-30418000,4,Yes
+Amrita Institute,Kochi,682041,"Cardiac,Transplant,Oncology","Star Comprehensive,HDFC Optima",0484-2801234,6,Yes
+Christian Medical,Vellore,632004,All Specializations,"Star Comprehensive,Bajaj Health",0416-2281000,6,No
+Hinduja Hospital,Mumbai,400016,"Cardiac,Neuro,Ortho",All Plans,022-24452222,3,Yes
+SRM Hospital,Chennai,600089,"Cardiac,Ortho,Oncology","Star Comprehensive,HDFC Optima",044-27480900,4,Yes
+Wockhardt Hospital,Mumbai,400011,"Cardiac,Ortho,Neuro","HDFC Optima,Bajaj Health",022-61784444,3,Yes
+MGM Hospital,Navi Mumbai,400708,"General,Maternity,Ortho","Star Comprehensive,All Plans",022-27432000,3,Yes
+Yashoda Hospital,Hyderabad,500026,"Cardiac,Neuro,Oncology",All Plans,040-45674567,3,Yes
+Santokba Durlabhji,Jaipur,302015,"Cardiac,Ortho,Oncology","Star Comprehensive,Bajaj Health",0141-2566251,4,Yes
+BM Birla Heart,Kolkata,700027,Cardiac Specialty,"Star Comprehensive,HDFC Optima",033-30403040,4,Yes
+Peerless Hospital,Kolkata,700094,"General,Ortho,Oncology",All Plans,033-46004600,4,Yes
+Sterling Hospital,Ahmedabad,380052,"Cardiac,Maternity,Ortho","Star Comprehensive,Bajaj Health",079-40010100,3,Yes
+Apollo Gleaneagles,Kolkata,700054,"Cardiac,Neuro,Ortho",All Plans,033-23201300,4,Yes
+Shankara Nethralaya,Chennai,600006,Ophthalmology Specialty,"Star Comprehensive,HDFC Optima",044-28271616,2,No
+LV Prasad Eye,Hyderabad,500034,Ophthalmology Specialty,"Star Comprehensive,All Plans",040-30612626,2,No
+Jupiter Hospital,Pune,411014,"Cardiac,Ortho,Oncology","HDFC Optima,Bajaj Health",020-66706000,3,Yes

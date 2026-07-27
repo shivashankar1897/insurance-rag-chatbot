@@ -1,0 +1,16 @@
+insurer,plan_name,plan_type,sum_insured_inr,room_rent_limit_inr,icu_limit_inr,opd_covered,maternity_covered,pre_existing_waiting_period_months,copayment_percent,no_claim_bonus,restoration_benefit,network_hospitals,premium_age_30,premium_age_45
+Star Health,Star Comprehensive Individual,Health,500000,3000,5000,True,True,36,20,True,False,14000,8999,12500
+Star Health,Star Comprehensive Individual,Health,1000000,5000,10000,True,True,36,20,True,False,14000,14500,19800
+Star Health,Star Senior Citizen,Health,300000,3000,6000,False,False,12,30,False,False,9000,13500,18900
+Star Health,Star Family Delite,Health,300000,2000,4000,True,False,48,20,False,False,10000,7500,11200
+HDFC Ergo,Optima Restore Individual,Health,500000,0,10000,True,True,36,0,True,True,15000,10200,14800
+HDFC Ergo,Optima Restore Individual,Health,1000000,0,20000,True,True,36,0,True,True,15000,17500,24200
+HDFC Ergo,My Health Suraksha,Health,300000,2500,5000,True,False,48,20,True,False,12000,6800,10500
+Bajaj Allianz,Health Guard Individual,Health,500000,3000,6000,True,True,36,20,True,False,13000,9200,13400
+Bajaj Allianz,Health Guard Family,Health,500000,3000,6000,True,True,36,20,True,False,13000,11800,16700
+Bajaj Allianz,Silver Health,Health,200000,2000,4000,False,False,12,30,False,False,8000,8900,13200
+HDFC Ergo,Optima Motor Comprehensive,Motor,0,0,0,False,False,0,0,False,False,0,8500,12400
+Bajaj Allianz,Motor Own Damage,Motor,0,0,0,False,False,0,0,False,False,0,6200,9800
+ICICI Lombard,Complete Health Insurance,Health,500000,4000,8000,True,True,36,20,True,True,15000,10800,15600
+Niva Bupa,Reassure Individual,Health,500000,0,10000,True,True,36,0,True,True,15000,11200,16400
+Niva Bupa,Health Premia,Health,1000000,0,20000,True,True,24,0,True,True,20000,19800,28500

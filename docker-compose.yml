@@ -1,0 +1,11 @@
+services:
+  insurance-rag:
+    build:
+      context: ./backend
+    image: insurance-rag-app:latest
+    ports:
+      - "8501:8501"
+    env_file:
+      - ./backend/.env
+    environment:
+      CHROMA_DB_DIR: /app/data/chromadb
