@@ -35,3 +35,7 @@ dist/
 
 # ChromaDB (optional if you regenerate embeddings)
 data/chromadb/
+
+# Generated RAG indexes / vector database
+backend/data/chromadb/
+backend/data/indexes/
